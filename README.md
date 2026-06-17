@@ -4,23 +4,21 @@
 
 ### AI Product Engineer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+AI+Products;Agentic+Systems+%26+Intelligent+Workflows;From+Idea+to+Production" />
-</p>
+Building AI products, agentic systems, and intelligent workflows.
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<br>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+AI+Products;Agentic+Systems;Intelligent+Workflows;From+Idea+to+Production" />
 
-  <a href="https://github.com/PiyushSinghTomar">
-    <img src="https://img.shields.io/github/followers/PiyushSinghTomar?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br><br>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -31,6 +29,20 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,react,fastapi,postgres,mongodb,redis,docker,git,github,linux" />
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ranger222&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranger222&layout=compact&hide_border=true&theme=transparent" />
+
+<img src="https://streak-stats.demolab.com?user=Ranger222&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -56,33 +68,11 @@ Interactive AI-powered decision-making platform.
 
 ---
 
-## GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PiyushSinghTomar&show_icons=true&hide_border=true&theme=transparent" />
+### Currently Exploring
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSinghTomar&layout=compact&hide_border=true&theme=transparent" />
-
-<img src="https://streak-stats.demolab.com?user=PiyushSinghTomar&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-<div align="center">
-
-### Connect
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-   
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+Agentic AI • MCP • Multi-Agent Systems • Open Source LLMs
 
 </div>
 
