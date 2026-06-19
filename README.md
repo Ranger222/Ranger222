@@ -2,27 +2,7 @@
 
 # Piyush Singh Tomar
 
-### AI Product Engineer
 
-Building AI products, agentic systems, and intelligent workflows.
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+AI+Products;Agentic+Systems;Intelligent+Workflows;From+Idea+to+Production" />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/piyush-singh-tomar">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:piyushtomar0731@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 ## Tech Stack
 
